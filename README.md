@@ -1,6 +1,6 @@
 # 🚀 ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking
                 
-> [**ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking**](https://arxiv.org/pdf/2603.05384)  
+> [**【PRCV 2026】ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking**](https://arxiv.org/pdf/2603.05384)  
 > Zihan Zhou *, Sijia Chen *, Yanqiu Yu, En Yu, Wenbing Tao   
 > Huazhong University of Science and Technology                       
 > *[ArXiv] Paper ([https://arxiv.org/pdf/2603.05384](https://arxiv.org/pdf/2603.05384))*
@@ -26,9 +26,9 @@ The **ORSet dataset** is available for download via [Baidu Netdisk](https://pan.
 
 ## ✏️ Citation
 ```
-@article{chen2026ormot,
+@article{zhou2026ormot,
   title={ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking},
-  author={Chen, Sijia and Zhou, Zihan and Yu, Yanqiu and Yu, En and Tao, Wenbing},
+  author={Zhou, Zihan and Chen, Sijia and Yu, Yanqiu and Yu, En and Tao, Wenbing},
   journal={arXiv preprint arXiv:2603.05384},
   year={2026}
 }
