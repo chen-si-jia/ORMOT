@@ -21,15 +21,4 @@ Thanks for your attention! If you are interested in our work, please give us a s
 
 ## 📚 Dataset
 
-The **ORSet dataset** is available for download via [Baidu Netdisk](https://pan.baidu.com/s/1boZu-AuldFhhJO2pxbWlJQ?pwd=hust).
-
-
-## ✏️ Citation
-```
-@article{zhou2026ormot,
-  title={ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking},
-  author={Zhou, Zihan and Chen, Sijia and Yu, Yanqiu and Yu, En and Tao, Wenbing},
-  journal={arXiv preprint arXiv:2603.05384},
-  year={2026}
-}
-```
+The **ORSet dataset** is available for download via [Baidu Netdisk](https://pan.baidu.com/s/1boZu-AuldFhhJO2pxbWlJQ?pwd=hust) or [Hugging Face](https://huggingface.co/datasets/sijiachenn/ORSet).
